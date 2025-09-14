@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+:root {
+  background-color: #000;
+}
+
+input {
+  color: black; /* or your desired text color */
+}
+
+input::placeholder {
+  color: brown; /* placeholder color */
+}
+
